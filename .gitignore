@@ -1,0 +1,8 @@
+# Editor directories and files
+/.idea
+
+# Dependencies
+/node_modules
+
+# Artifacts
+/build

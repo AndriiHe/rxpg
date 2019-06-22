@@ -1,0 +1,24 @@
+{
+  "name": "rxpg",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriihe/rxpg.git"
+  },
+  "keywords": [
+    "postgresql",
+    "postgres",
+    "pg",
+    "rx",
+    "rxjs",
+    "observable",
+    "reactive"
+  ],
+  "author": "Andrii Heiko",
+  "license": "MIT"
+}
