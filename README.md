@@ -1,9 +1,5 @@
 # RxPg
 
-[![Build Status](https://travis-ci.com/andriihe/rxpg.svg?branch=master)](https://travis-ci.com/ihoro/rough-rx-pg)
-
-
-
 ## Installation
 ```
 $ npm i rxpg
